@@ -159,7 +159,7 @@ public class MainActivity extends AppCompatActivity {
         mp.stop();
         mp.release();
 
-        mp=MediaPlayer.create(this,R.raw.spring);
+        mp=MediaPlayer.create(this,R.raw.instru);
 //        mp=MediaPlayer.create(this,R.raw.instru);
     }
 
